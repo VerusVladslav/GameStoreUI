@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\GameStore.DAL.dll.config
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\GameStore.DAL.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\GameStore.DAL.pdb
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\obj\Debug\GameStore.DAL.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\obj\Debug\GameStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\obj\Debug\GameStore.DAL.csproj.CopyComplete
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\obj\Debug\GameStore.DAL.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\obj\Debug\GameStore.DAL.pdb
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Админ\source\repos\GameStore.UI\GameStore.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

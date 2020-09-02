@@ -1,0 +1,24 @@
+﻿@model IEnumerable<GameStore.UI.Models.GameCreateViewModel>
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@{ 
+    Html.RenderPartial("Partial/Sidebar");
+}
+<div class="container my-container">
+    <p>
+        
+        @Html.ActionLink("Create New game", "Create", new { @class = "btn btn-primary" })
+    </p>
+
+    <div id="games">
+
+    @{
+        Html.RenderPartial("Partial/GamePartial",Model);
+    }
+    </div>
+</div>
+

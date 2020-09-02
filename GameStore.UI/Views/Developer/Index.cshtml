@@ -1,0 +1,20 @@
+﻿@model IEnumerable<GameStore.UI.Models.DeveloperView>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container my-container">
+    <p>
+
+        @Html.ActionLink("Create New developer", "Create", new { @class = "btn btn-primary" })
+    </p>
+
+    <div id="developers">
+
+        @{
+            Html.RenderPartial("Partial/DeveloperPartial", Model);
+        }
+    </div>
+</div>
+
